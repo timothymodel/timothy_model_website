@@ -187,6 +187,10 @@ pre {
   border-radius: var(--border-radius-sm);
 }
 
+.email::after {
+  content: "proton.me";
+}
+
 footer {
   display: grid;
   grid-template-columns: auto 1fr; /* This creates two columns: one for the image and one for the text */
