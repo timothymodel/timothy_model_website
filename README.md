@@ -1,3 +1,5 @@
-## My Website
+## My Personal Website
 
-This is a slightly modified version of the awesome [astro-cube](https://github.com/williamhzo/astro-cube.git) theme.
+My website: https://timothymodel.com.
+
+This is a slightly modified version of the awesome [astro-cube](https://github.com/williamhzo/astro-cube.git) template.
